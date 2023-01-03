@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1607673077 source:/home/pascal/Dropbox/Enseignement/AlgoPC2A/2020-2021/AP3-Bgs/TP/TP2/TP2_Init/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1607673005 source:/home/pascal/Dropbox/Enseignement/AlgoPC2A/2020-2021/AP3-Bgs/TP/TP2/TP2_Init/pile.c
+	"pile.h"
+	<assert.h>
+
+1607675144 /home/pascal/Dropbox/Enseignement/AlgoPC2A/2020-2021/AP3-Bgs/TP/TP2/TP2_Init/pile.h
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576227163 /home/pascal/Dropbox/Enseignement/AlgoPC2A/2020-2021/AP3-Bgs/TP/TP2/TP2_Init/struct.h
+
+1672755824 source:c:\cours\algo\tp2\tp2_init\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+	"struct.h"
+
+1672755479 source:c:\cours\algo\tp2\tp2_init\pile.c
+	"pile.h"
+	<assert.h>
+
+1672754199 c:\cours\algo\tp2\tp2_init\pile.h
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672755030 c:\cours\algo\tp2\tp2_init\struct.h
+
+1672761546 source:c:\cours\algo\tp2\tp2_init\main-navigateur.c
+	"pile.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"navigateur.h"
+
+1672761798 source:c:\cours\algo\tp2\tp2_init\navigateur.c
+	"pile.h"
+	<assert.h>
+	"navigateur.h"
+
+1672761151 c:\cours\algo\tp2\tp2_init\navigateur.h
+
+1672770036 source:e:\programme en c\tp 2 algo\tp2_init\main-navigateur.c
+	"pile.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"struct.h"
+	"navigateur.h"
+
+1672754199 e:\programme en c\tp 2 algo\tp2_init\pile.h
+	"struct.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1672755030 e:\programme en c\tp 2 algo\tp2_init\struct.h
+
+1672771633 e:\programme en c\tp 2 algo\tp2_init\navigateur.h
+
+1672755824 source:e:\programme en c\tp 2 algo\tp2_init\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+	"struct.h"
+
+1672771785 source:e:\programme en c\tp 2 algo\tp2_init\navigateur.c
+	"pile.h"
+	<assert.h>
+	"navigateur.h"
+
+1672755479 source:e:\programme en c\tp 2 algo\tp2_init\pile.c
+	"pile.h"
+	<assert.h>
+
